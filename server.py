@@ -3,16 +3,16 @@ import twisted.internet.protocol as twistedsockets
 from twisted.python import log
 import sys
 from autobahn.websocket import listenWS
-from rpi_ws.server_protocol import RPIServerProtocol, RPISocketServerFactory, SiteComm, FlaskSocketPolicyServerProtocol
+from rpi_ws.server_protocol import RPIServerProtocol, RPISocketServerFactory, SiteComm, FlashSocketPolicyServerProtocol
 from twisted.web import server
 
 # SSL applies to both HTTP and websocket
 WS_USE_SSL = False
 HTTP_USE_SSL = False
-WS_PORT = 9000
+WS_PORT = 9000 # (this needs to point to the machine running PiIO.SS) and PiIO.SS/pi_io/settings.py line 179
 SERVER = "0.0.0.0"
 DEBUG = False
-HTTP_PORT = 8090
+HTTP_PORT = 8090 # listening HTTP communucation port
 PROVIDEFLASHSOCKETPOLICYFILE = True
 
 def main():
@@ -49,8 +49,8 @@ def main():
 		reactor.listenTCP(HTTP_PORT, site)
 
 	if PROVIDEFLASHSOCKETPOLICYFILE:
-		socketfactory = twistedsockets.factory()
-		socketfactory.protocol = FlaskSocketPolicyServerProtocol
+		socketfactory = twistedsockets.Factory()
+		socketfactory.protocol = FlashSocketPolicyServerProtocol
 		reactor.listenTCP(843, socketfactory)
 
 	reactor.run()

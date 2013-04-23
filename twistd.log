@@ -1,0 +1,597 @@
+2013-04-19 17:26:25-0400 [-] Log opened.
+2013-04-19 17:26:25-0400 [-] twistd 12.0.0 (/usr/bin/python 2.7.3) starting up.
+2013-04-19 17:26:25-0400 [-] reactor class: twisted.internet.pollreactor.PollReactor.
+2013-04-19 17:26:25-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x20c0940>
+2013-04-19 17:26:25-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6775328> will retry in 3 seconds
+2013-04-19 17:26:25-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x20c0940>
+2013-04-19 17:26:28-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x20c0940>
+2013-04-19 17:26:28-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6775328> will retry in 7 seconds
+2013-04-19 17:26:28-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x20c0940>
+2013-04-19 17:26:36-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x20c0940>
+2013-04-19 17:26:36-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6775328> will retry in 20 seconds
+2013-04-19 17:26:36-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x20c0940>
+2013-04-19 17:26:57-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x20c0940>
+2013-04-19 17:51:29-0400 [-] Received SIGTERM, shutting down.
+2013-04-19 17:51:29-0400 [RPIClientProtocol,client] <twisted.internet.tcp.Connector instance at 0xb6775328> will retry in 30 seconds
+2013-04-19 17:51:29-0400 [RPIClientProtocol,client] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x20c0940>
+2013-04-19 17:51:29-0400 [-] Main loop terminated.
+2013-04-19 17:51:29-0400 [-] Server Shut Down.
+2013-04-19 18:46:01-0400 [-] Log opened.
+2013-04-19 18:46:01-0400 [-] twistd 12.0.0 (/usr/bin/python 2.7.3) starting up.
+2013-04-19 18:46:01-0400 [-] reactor class: twisted.internet.pollreactor.PollReactor.
+2013-04-19 18:46:01-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:46:01-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 2 seconds
+2013-04-19 18:46:01-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:46:03-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:46:04-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 6 seconds
+2013-04-19 18:46:04-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:46:10-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:46:10-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 20 seconds
+2013-04-19 18:46:10-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:46:31-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:46:31-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 18:46:31-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:47:01-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:47:01-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 18:47:01-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:47:33-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:47:33-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 22 seconds
+2013-04-19 18:47:33-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:47:56-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:47:56-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 37 seconds
+2013-04-19 18:47:56-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:48:34-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:48:34-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 18:48:34-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:49:05-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:49:05-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 29 seconds
+2013-04-19 18:49:05-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:49:34-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:49:34-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 18:49:34-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:50:07-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:50:07-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 18:50:07-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:50:35-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:50:35-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 18:50:35-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:51:08-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:51:08-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 23 seconds
+2013-04-19 18:51:08-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:51:32-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:51:32-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 18:51:32-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:52:03-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:52:03-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 18:52:03-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:52:33-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:52:33-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 26 seconds
+2013-04-19 18:52:33-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:53:00-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:53:00-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 18:53:00-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:53:27-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:53:27-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 18:53:27-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:53:58-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:53:58-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 18:53:58-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:54:29-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:54:29-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 18:54:29-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:54:59-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:55:02-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 18:55:02-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:55:33-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:55:33-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 18:55:33-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:56:06-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:56:06-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 18:56:06-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:56:38-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:56:38-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 18:56:38-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:57:06-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:57:06-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 18:57:06-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:57:36-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:57:36-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 18:57:36-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:58:08-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:58:08-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 33 seconds
+2013-04-19 18:58:08-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:58:42-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:58:42-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 18:58:42-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:59:10-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:59:10-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 18:59:10-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:59:37-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 18:59:37-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 18:59:37-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:00:05-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:00:05-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 19:00:05-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:00:38-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:00:38-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 19:00:38-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:01:09-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:01:09-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 19:01:09-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:01:36-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:01:36-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 19:01:36-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:02:03-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:02:03-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 22 seconds
+2013-04-19 19:02:03-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:02:25-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:02:25-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 19:02:25-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:02:56-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:02:56-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 35 seconds
+2013-04-19 19:02:56-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:03:31-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:03:31-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 19:03:31-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:03:59-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:03:59-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 24 seconds
+2013-04-19 19:03:59-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:04:24-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:04:24-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 19:04:24-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:04:56-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:04:56-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 19:04:56-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:05:25-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:05:25-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 34 seconds
+2013-04-19 19:05:25-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:05:59-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:05:59-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 26 seconds
+2013-04-19 19:05:59-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:06:26-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:06:26-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 35 seconds
+2013-04-19 19:06:26-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:07:02-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:07:02-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 35 seconds
+2013-04-19 19:07:02-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:07:37-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:07:37-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 35 seconds
+2013-04-19 19:07:37-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:08:12-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:08:12-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 19:08:12-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:08:45-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:08:45-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 19:08:45-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:09:12-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:09:12-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 19:09:12-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:09:40-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:09:40-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 19:09:40-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:10:13-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:10:13-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 19:10:13-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:10:46-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:10:46-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 29 seconds
+2013-04-19 19:10:46-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:11:16-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:11:16-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 19:11:16-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:11:44-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:11:44-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 24 seconds
+2013-04-19 19:11:44-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:12:09-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:12:09-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 25 seconds
+2013-04-19 19:12:09-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:12:34-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:12:34-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 19:12:34-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:13:03-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:13:03-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 19:13:03-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:13:30-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:13:30-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 19:13:30-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:13:58-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:13:58-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 19:13:58-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:14:26-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:14:26-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 29 seconds
+2013-04-19 19:14:26-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:14:55-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:14:55-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 22 seconds
+2013-04-19 19:14:55-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:15:17-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:15:17-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 23 seconds
+2013-04-19 19:15:17-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:15:41-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:15:41-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 17 seconds
+2013-04-19 19:15:41-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:15:59-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:15:59-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 19:15:59-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:16:30-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:16:30-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 19:16:30-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:16:58-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:16:58-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 19:16:58-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:17:30-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:17:30-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 19:17:30-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:18:02-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:18:02-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 24 seconds
+2013-04-19 19:18:02-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:18:27-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:18:27-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 19:18:27-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:18:59-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:18:59-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 29 seconds
+2013-04-19 19:18:59-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:19:29-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:19:29-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 19:19:29-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:19:56-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:19:56-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 19:19:56-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:20:23-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:20:23-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 19:20:23-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:20:54-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:20:54-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 35 seconds
+2013-04-19 19:20:54-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:21:29-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:21:29-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 19:21:29-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:22:02-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:22:02-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 19:22:02-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:22:30-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:22:30-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 19:22:30-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:23:01-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:23:01-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 19:23:01-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:23:29-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:23:29-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 33 seconds
+2013-04-19 19:23:29-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:24:02-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:24:02-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 19:24:02-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:24:30-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:24:30-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 19:24:30-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:25:01-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:25:01-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 25 seconds
+2013-04-19 19:25:01-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:25:26-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:25:26-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 29 seconds
+2013-04-19 19:25:26-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:25:55-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:25:55-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 36 seconds
+2013-04-19 19:25:55-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:26:31-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:26:31-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 19:26:31-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:27:02-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:27:02-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 33 seconds
+2013-04-19 19:27:02-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:27:36-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:27:36-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 22 seconds
+2013-04-19 19:27:36-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:27:59-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:27:59-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 25 seconds
+2013-04-19 19:27:59-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:28:24-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:28:24-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 19:28:24-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:28:57-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:28:57-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 19:28:57-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:29:29-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:29:29-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 19:29:29-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:29:58-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:29:58-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 19:29:58-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:30:27-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:30:27-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 29 seconds
+2013-04-19 19:30:27-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:30:57-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:30:57-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 19:30:57-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:31:27-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:31:27-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 25 seconds
+2013-04-19 19:31:27-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:31:53-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:31:53-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 19:31:53-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:32:24-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:32:24-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 25 seconds
+2013-04-19 19:32:24-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:32:50-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:32:50-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 19:32:50-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:33:18-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:33:18-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 19:33:18-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:33:46-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:33:46-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 26 seconds
+2013-04-19 19:33:46-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:34:13-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:34:13-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 19:34:13-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:34:42-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:34:42-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 26 seconds
+2013-04-19 19:34:42-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:35:08-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:35:08-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 19:35:08-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:35:38-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:35:38-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 19:35:38-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:36:06-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:36:06-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 19:36:06-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:36:35-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:36:35-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 23 seconds
+2013-04-19 19:36:35-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:36:58-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:36:58-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 19:36:58-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:37:26-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:37:26-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 19:37:26-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:37:58-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:37:58-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 22 seconds
+2013-04-19 19:37:58-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:38:20-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:38:20-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 19:38:20-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:38:52-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:38:52-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 19:38:52-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:39:23-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:39:23-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 19:39:23-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:39:51-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:39:51-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 19:39:51-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:40:20-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:40:20-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 19:40:20-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:40:52-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:40:52-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 19:40:52-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:41:22-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:41:22-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 19:41:22-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:41:53-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:41:53-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 19:41:53-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:42:22-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:42:22-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 19:42:22-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:42:51-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:42:51-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 24 seconds
+2013-04-19 19:42:51-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:43:16-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:43:16-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 19:43:16-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:43:48-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:43:48-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 36 seconds
+2013-04-19 19:43:48-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:44:25-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:44:25-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 19:44:25-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:44:56-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:44:56-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 19:44:56-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:45:25-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:45:25-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 19:45:25-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:45:55-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:45:55-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 33 seconds
+2013-04-19 19:45:55-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:46:29-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:46:29-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 19:46:29-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:47:00-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:47:00-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 19:47:00-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:47:31-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:47:31-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 19:47:31-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:48:00-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:48:00-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 19:48:00-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:48:32-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:48:32-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 19:48:32-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:49:01-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:49:01-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 23 seconds
+2013-04-19 19:49:01-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:49:25-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:49:25-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 23 seconds
+2013-04-19 19:49:25-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:49:48-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:49:48-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 19:49:48-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:50:18-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:50:18-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 29 seconds
+2013-04-19 19:50:18-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:50:48-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:50:48-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 19:50:48-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:51:16-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:51:16-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 24 seconds
+2013-04-19 19:51:16-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:51:40-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:51:40-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 19:51:40-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:52:08-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:52:08-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 29 seconds
+2013-04-19 19:52:08-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:52:37-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:52:37-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 19:52:37-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:53:09-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:53:09-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 19:53:09-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:53:40-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:53:40-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 34 seconds
+2013-04-19 19:53:40-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:54:14-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:54:14-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 19:54:14-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:54:46-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:54:46-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 19:54:46-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:55:18-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:55:18-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 29 seconds
+2013-04-19 19:55:18-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:55:47-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:55:47-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 25 seconds
+2013-04-19 19:55:47-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:56:13-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:56:13-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 33 seconds
+2013-04-19 19:56:13-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:56:47-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:56:47-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 19:56:47-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:57:14-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:57:14-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 19:57:14-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:57:45-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:57:45-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 34 seconds
+2013-04-19 19:57:45-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:58:19-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:58:19-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 19:58:19-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:58:52-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:58:52-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 19:58:52-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:59:22-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:59:22-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 19:59:22-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:59:50-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 19:59:50-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 36 seconds
+2013-04-19 19:59:50-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:00:27-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:00:27-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 33 seconds
+2013-04-19 20:00:28-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:01:01-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:01:01-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 20:01:01-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:01:30-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:01:30-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 20:01:30-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:02:00-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:02:00-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 33 seconds
+2013-04-19 20:02:00-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:02:34-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:02:34-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 29 seconds
+2013-04-19 20:02:34-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:03:04-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:03:04-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 20:03:04-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:03:35-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:03:35-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 20:03:35-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:04:07-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:04:07-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 25 seconds
+2013-04-19 20:04:07-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:04:32-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:04:32-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 36 seconds
+2013-04-19 20:04:32-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:05:08-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:05:08-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 20:05:08-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:05:39-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:05:39-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 27 seconds
+2013-04-19 20:05:39-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:06:07-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:06:07-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 20:06:07-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:06:38-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:06:38-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 23 seconds
+2013-04-19 20:06:38-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:07:02-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:07:02-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 20:07:02-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:07:30-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:07:30-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 20:07:30-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:08:02-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:08:02-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 20:08:02-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:08:31-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:08:31-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 20:08:31-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:09:01-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:09:01-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 20:09:01-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:09:33-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:09:33-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 20:09:33-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:10:04-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:10:04-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 20:10:04-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:10:33-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:10:33-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 24 seconds
+2013-04-19 20:10:33-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:10:58-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:10:58-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 25 seconds
+2013-04-19 20:10:58-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:11:23-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:11:23-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 25 seconds
+2013-04-19 20:11:23-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:11:49-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:11:49-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 20:11:49-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:12:22-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:12:22-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 20:12:22-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:12:50-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:12:50-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 24 seconds
+2013-04-19 20:12:50-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:13:15-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:13:15-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 20:13:15-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:13:46-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:13:46-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 29 seconds
+2013-04-19 20:13:46-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:14:15-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:14:15-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 35 seconds
+2013-04-19 20:14:15-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:14:51-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:14:51-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 32 seconds
+2013-04-19 20:14:51-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:15:24-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:15:24-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 29 seconds
+2013-04-19 20:15:24-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:15:54-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:15:54-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 20:15:54-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:16:25-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:16:25-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 30 seconds
+2013-04-19 20:16:25-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:16:55-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:16:55-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 31 seconds
+2013-04-19 20:16:55-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:17:27-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:17:27-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 35 seconds
+2013-04-19 20:17:27-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:18:02-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:18:02-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 33 seconds
+2013-04-19 20:18:02-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:18:36-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:18:36-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 20:18:36-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:19:05-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:19:05-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0xb6789328> will retry in 28 seconds
+2013-04-19 20:19:05-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0xb9f940>
+2013-04-19 20:19:30-0400 [-] Received SIGTERM, shutting down.
+2013-04-19 20:19:30-0400 [-] Main loop terminated.
+2013-04-19 20:19:30-0400 [-] Server Shut Down.

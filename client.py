@@ -1,13 +1,13 @@
 from twisted.internet import reactor
 from twisted.python import log
-from ahtobahn.websocket import WebSocketClientFactory, WebSocketClientProtocol, connectWS
+from autobahn.websocket import WebSocketClientFactory, WebSocketClientProtocol, connectWS
 import sys
 from rpi_ws.client_protocol import RPIClientProtocol, ReconnectingWebSocketClientFactory
 from rpi_ws import settings
 
 USE_SSL = False
-PORT = 9000
-SERVER = "0.0.0.0"
+PORT = 8000
+SERVER = "192.168.1.3"
 DEBUG = True
 
 
@@ -17,7 +17,7 @@ def main():
 	else:
 		uri_type = "ws"
 
-	server_url = "%s://%s:%d/rpi" % (uri_type, SERVER, PORT)
+	server_url = "%s://%s:%d/rpi/" % (uri_type, SERVER, PORT)
 
 	if DEBUG:
 		log.startLogging(sys.stdout)
