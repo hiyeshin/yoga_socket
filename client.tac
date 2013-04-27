@@ -5,8 +5,8 @@ from rpi_ws import settings
 
 
 def getService():
-	#server_url = "ws://172.26.13.157:9000/rpi/" #maybe I should change this later
-	server_url = "ws://128.122.151.57:9000/rpi/"
+	server_url = "ws://192.168.1.3:9000/rpi/" #maybe I should change this later
+	#server_url = "ws://172.26.13.137:9000/rpi/"
 	factory = ReconnectingWebSocketClientFactory(server_url, useragent = settings.RPI_USER_AGENT, debug = False)
 	factory.protocol = RPIClientProtocol
 	return internet.TCPClient(factory.host, factory.port, factory)

@@ -1,0 +1,21 @@
+2013-04-23 22:42:58-0400 [-] Log opened.
+2013-04-23 22:42:58-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x18ea148>
+2013-04-23 22:42:58-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x1cfdf80> will retry in 2 seconds
+2013-04-23 22:42:58-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x18ea148>
+2013-04-23 22:43:00-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x18ea148>
+2013-04-23 22:43:00-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x1cfdf80> will retry in 5 seconds
+2013-04-23 22:43:00-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x18ea148>
+2013-04-23 22:43:06-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x18ea148>
+2013-04-23 22:43:06-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x1cfdf80> will retry in 11 seconds
+2013-04-23 22:43:06-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x18ea148>
+2013-04-23 22:43:18-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x18ea148>
+2013-04-23 22:43:18-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x1cfdf80> will retry in 27 seconds
+2013-04-23 22:43:18-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x18ea148>
+2013-04-23 22:43:45-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x18ea148>
+2013-04-23 22:43:45-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x1cfdf80> will retry in 30 seconds
+2013-04-23 22:43:45-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x18ea148>
+2013-04-23 22:44:16-0400 [-] Starting factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x18ea148>
+2013-04-23 22:44:16-0400 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x1cfdf80> will retry in 28 seconds
+2013-04-23 22:44:16-0400 [Uninitialized] Stopping factory <rpi_ws.client_protocol.ReconnectingWebSocketClientFactory instance at 0x18ea148>
+2013-04-23 22:44:24-0400 [-] Received SIGINT, shutting down.
+2013-04-23 22:44:24-0400 [-] Main loop terminated.

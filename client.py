@@ -6,8 +6,9 @@ from rpi_ws.client_protocol import RPIClientProtocol, ReconnectingWebSocketClien
 from rpi_ws import settings
 
 USE_SSL = False
-PORT = 8000
-SERVER = "192.168.1.3"
+PORT = 9000
+SERVER = '192.168.0.10'
+#SERVER = '128.122.151.57'
 DEBUG = True
 
 
